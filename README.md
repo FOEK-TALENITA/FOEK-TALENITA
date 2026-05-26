@@ -1,19 +1,19 @@
-# ¡Hola! Soy Amaro 👋
+# ¡Hola! Soy Amaro 
 
 > **Organización, gestión de proveedores y soluciones ágiles para empresas en crecimiento."**
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 Soy un **Auxiliar Administrativo y Contable** ubicado en la provincia de Barcelona, con especial interés y pasión por el sector de la automoción. Me destaco por mi capacidad de organización, mi proactividad y mi enfoque resolutivo en la gestión diaria de empresas.
 
-* 📍 **Ubicación:** Barcelona, España (Disponibilidad para Montcada i Reixac)
-* 💼 **Enfoque:** Administración general, Contabilidad, Control de Proveedores y Atención al Cliente.
-* ⚡ **Soft Skills:** Iniciativa, trabajo en equipo, adaptabilidad y actitud positiva.
+* **Ubicación:** Barcelona, España (Disponibilidad para Montcada i Reixac)
+* **Enfoque:** Administración general, Contabilidad, Control de Proveedores y Atención al Cliente.
+* **Soft Skills:** Iniciativa, trabajo en equipo, adaptabilidad y actitud positiva.
 
 ---
 
-## 🛠️ Mis Competencias y Herramientas
+## Mis Competencias y Herramientas
 
 | Administración y Finanzas | Herramientas Digitales / Ofimática |
 | :--- | :--- |
