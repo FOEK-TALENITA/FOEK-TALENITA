@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Amaro] 👋
+# ¡Hola! Soy Amaro 👋
 
-> **"[Organización, gestión de proveedores y soluciones ágiles para empresas en crecimiento.]"**
+> **Organización, gestión de proveedores y soluciones ágiles para empresas en crecimiento."**
 
 ---
 
