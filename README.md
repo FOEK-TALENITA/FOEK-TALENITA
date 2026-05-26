@@ -24,10 +24,10 @@ Soy un **Auxiliar Administrativo y Contable** ubicado en la provincia de Barcelo
 
 ---
 
-## 📈 ¿Por qué yo?
+## ¿Por qué yo?
 En entornos dinámicos como un taller o una empresa en pleno crecimiento, sé lo importante que es la **rapidez y la precisión**. Mi objetivo es descargar de tareas burocráticas al equipo técnico y asegurar que la relación con los proveedores sea fluida y eficiente, manteniendo siempre el control de las cuentas al día.
 
 ---
 
-## 📬 Conecta conmigo
-* 📧 [amarosan012@gmail.com]
+## Conecta conmigo
+* amarosan012@gmail.com
